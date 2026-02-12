@@ -1,31 +1,22 @@
 fileFormatVersion: 2
-guid: a123597a4cdb255448b65eeaff21e433
+guid: d0d2a1ab052ecf845abe54943ec67d84
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: 4699984538235675670
-    second: Game Over Motion_0
+      213: 6055045571043105099
+    second: Play Button_0
   - first:
-      213: -5916118024093615425
-    second: Game Over Motion_1
+      213: -7193122088060811460
+    second: Play Button_1
   - first:
-      213: -5155960158519679750
-    second: Game Over Motion_2
+      213: -5400827159775662511
+    second: Play Button_2
   - first:
-      213: 6353519076855011386
-    second: Game Over Motion_3
+      213: 1739606179720110205
+    second: Play Button_3
   - first:
-      213: -9206385990727536240
-    second: Game Over Motion_4
-  - first:
-      213: -7726141872787949465
-    second: Game Over Motion_5
-  - first:
-      213: -3915223319500411534
-    second: Game Over Motion_6
-  - first:
-      213: 8654557678703387247
-    second: Game Over Motion_7
+      213: -1239688768411445685
+    second: Play Button_4
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -61,9 +52,9 @@ TextureImporter:
     filterMode: 1
     aniso: 1
     mipBias: 0
-    wrapU: 1
-    wrapV: 1
-    wrapW: 1
+    wrapU: 0
+    wrapV: 0
+    wrapW: 0
   nPOTScale: 0
   lightmap: 0
   compressionQuality: 50
@@ -96,7 +87,7 @@ TextureImporter:
     maxTextureSize: 2048
     resizeAlgorithm: 0
     textureFormat: -1
-    textureCompression: 1
+    textureCompression: 0
     compressionQuality: 50
     crunchedCompression: 0
     allowsAlphaSplitting: 0
@@ -121,177 +112,111 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: Game Over Motion_0
+      name: Play Button_0
       rect:
         serializedVersion: 2
-        x: 20
-        y: 176
-        width: 46
-        height: 60
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 62
+        y: 102
+        width: 131
+        height: 52
+      alignment: 9
+      pivot: {x: 0.5807699, y: 0.5678259}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 614ad533903b93140800000000000000
-      internalID: 4699984538235675670
+      spriteID: b4993d8add7d70450800000000000000
+      internalID: 6055045571043105099
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Game Over Motion_1
+      name: Play Button_1
       rect:
         serializedVersion: 2
-        x: 73
-        y: 171
-        width: 52
-        height: 64
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 328
+        y: 109
+        width: 131
+        height: 52
+      alignment: 9
+      pivot: {x: 0.3990376, y: 0.38130453}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: fba3d94800ab5eda0800000000000000
-      internalID: -5916118024093615425
+      spriteID: c378e1b5295ec2c90800000000000000
+      internalID: -7193122088060811460
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Game Over Motion_2
+      name: Play Button_2
       rect:
         serializedVersion: 2
-        x: 133
-        y: 179
-        width: 72
-        height: 58
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 575
+        y: 97
+        width: 131
+        height: 52
+      alignment: 9
+      pivot: {x: 0.41249934, y: 0.6865214}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: af42e53ad895278b0800000000000000
-      internalID: -5155960158519679750
+      spriteID: 15e2a4020586c05b0800000000000000
+      internalID: -5400827159775662511
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Game Over Motion_3
+      name: Play Button_3
       rect:
         serializedVersion: 2
-        x: 213
-        y: 171
-        width: 39
-        height: 68
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 815
+        y: 114
+        width: 131
+        height: 52
+      alignment: 9
+      pivot: {x: 0.6009619, y: 0.38130453}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: a385c9120fb3c2850800000000000000
-      internalID: 6353519076855011386
+      spriteID: d70aa478a92542810800000000000000
+      internalID: 1739606179720110205
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Game Over Motion_4
+      name: Play Button_4
       rect:
         serializedVersion: 2
-        x: 18
-        y: 89
-        width: 46
-        height: 60
+        x: 1023
+        y: 0
+        width: 769
+        height: 256
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 0917d8d08b85c3080800000000000000
-      internalID: -9206385990727536240
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Game Over Motion_5
-      rect:
-        serializedVersion: 2
-        x: 63
-        y: 87
-        width: 63
-        height: 67
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 768f33cc6ea37c490800000000000000
-      internalID: -7726141872787949465
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Game Over Motion_6
-      rect:
-        serializedVersion: 2
-        x: 133
-        y: 86
-        width: 38
-        height: 73
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 27d2ad872255aa9c0800000000000000
-      internalID: -3915223319500411534
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Game Over Motion_7
-      rect:
-        serializedVersion: 2
-        x: 175
-        y: 82
-        width: 66
-        height: 80
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: f62ae3fda5a2b1870800000000000000
-      internalID: 8654557678703387247
+      spriteID: b465bce12adbbcee0800000000000000
+      internalID: -1239688768411445685
       vertices: []
       indices: 
       edges: []
@@ -300,7 +225,7 @@ TextureImporter:
     customData: 
     physicsShape: []
     bones: []
-    spriteID: 
+    spriteID: 3308406dffa34154ea5e7c62795c0370
     internalID: 0
     vertices: []
     indices: 
@@ -310,14 +235,11 @@ TextureImporter:
     spriteCustomMetadata:
       entries: []
     nameFileIdTable:
-      Game Over Motion_0: 4699984538235675670
-      Game Over Motion_1: -5916118024093615425
-      Game Over Motion_2: -5155960158519679750
-      Game Over Motion_3: 6353519076855011386
-      Game Over Motion_4: -9206385990727536240
-      Game Over Motion_5: -7726141872787949465
-      Game Over Motion_6: -3915223319500411534
-      Game Over Motion_7: 8654557678703387247
+      Play Button_0: 6055045571043105099
+      Play Button_1: -7193122088060811460
+      Play Button_2: -5400827159775662511
+      Play Button_3: 1739606179720110205
+      Play Button_4: -1239688768411445685
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

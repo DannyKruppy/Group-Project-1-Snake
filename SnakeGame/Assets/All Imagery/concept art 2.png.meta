@@ -1,10 +1,10 @@
 fileFormatVersion: 2
-guid: 16d8e5e34568b8a469fb1dec9a4c2303
+guid: 55e72cdb7db453749905978d1016c871
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: -4606013596598944548
-    second: Play Motion_0
+      213: -7531472838298772276
+    second: concept art 2_0
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -100,13 +100,13 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: Play Motion_0
+      name: concept art 2_0
       rect:
         serializedVersion: 2
-        x: 62
-        y: 102
-        width: 131
-        height: 52
+        x: 0
+        y: 0
+        width: 256
+        height: 256
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -115,8 +115,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: cdcb910a9072410c0800000000000000
-      internalID: -4606013596598944548
+      spriteID: cccd2b56b55da7790800000000000000
+      internalID: -7531472838298772276
       vertices: []
       indices: 
       edges: []
@@ -135,7 +135,7 @@ TextureImporter:
     spriteCustomMetadata:
       entries: []
     nameFileIdTable:
-      Play Motion_0: -4606013596598944548
+      concept art 2_0: -7531472838298772276
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
